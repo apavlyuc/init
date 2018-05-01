@@ -1,0 +1,2 @@
+open /etc/hosts
+reroute address for intra42.ft into: 46.19.122.85

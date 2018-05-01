@@ -1,0 +1,3 @@
+sudo scutil --set ComputerName "kydahter"
+sudo scutil --set LocalHostName "hoster_local"
+sudo scutil --set HostName "hoster_prosto"

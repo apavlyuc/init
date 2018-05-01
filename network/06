@@ -1,0 +1,5 @@
+Seen this file, while browsing StackExchange.
+/etc/resolv.conf
+10.51.1.253
+or using this script
+scutil --dns | grep -m 1 'nameserver\[[0-9]*\]' | awk '{print $3}'

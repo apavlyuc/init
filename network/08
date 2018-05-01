@@ -1,0 +1,5 @@
+ping -c 1 slash16.org
+// 54.192.129.239
+whois 54.192.129.239
+OrgName:		Amazom Technologies Inc.
+
